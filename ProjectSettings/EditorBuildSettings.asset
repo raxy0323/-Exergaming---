@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/FirstView.unity
+    guid: a79f17133f770f446adf5d7cdfbc2d27
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step1_Stand/Stand_hint.unity
+    guid: fa3f5e7cc88d9b442afc302a11ce714b
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step1_Stand/Stand_hint 2.unity
+    guid: af94ef5d1622c0f499815ec455af5b40
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step2_Shoulder/ShoulderTitle.unity
+    guid: 41827e96afde3ae45a188b11869033e8
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step2_Shoulder/ShoulderAction.unity
+    guid: 274e8b261e2e3ed48986b4cd841d0ad2
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step3_LegLength/LegTitle.unity
+    guid: d7457d00d861e76409ad5ba6f75d4a6f
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step3_LegLength/LegAction.unity
+    guid: ba2c39efb85de0840b8cb9adf7b8aac6
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step4_L_FrontKnee/L_FrontKneeTitle.unity
+    guid: c2f98ab4bc905de44badc380dc9173ec
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step4_L_FrontKnee/L_FrontKneeAction.unity
+    guid: 323ba4de3ff973d439cfe51a6d97633b
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step5_R_BackKnee/R_BackKneeTitle.unity
+    guid: fb3e80d0da45a1e4587d06bd1df91c9b
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step5_R_BackKnee/R_BackKneeAction.unity
+    guid: 753090b92b62dc040b6db333e1540695
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step6_Change/ChangeTitle.unity
+    guid: d35f58ee9eccfa6499ee9b8152311e46
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step6_Change/ChangeAction.unity
+    guid: 6c6d2175ac323064f88f3a06f4b179ab
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step7_R_FrontKnee/R_FrontKneeTitle.unity
+    guid: 13270b484c9066e439de7d5a59f99ffe
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step7_R_FrontKnee/R_FrontKneeAction.unity
+    guid: 2a5f0194a9f9d30438a000af23b73314
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step8_L_BackKnee/L_BackKneeTitle.unity
+    guid: 1848165d422e3214dbd045a10d86302a
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step8_L_BackKnee/L_BackKneeAction.unity
+    guid: aca76091fe28da74c9462b81376e7273
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/MusicChooseScene.unity
+    guid: babcb1290638e2a4ba69621a2acdec37
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/TongguanScene 0.unity
+    guid: aa4816386c4f8ad4c9a92b6ffb0d4d22
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/ModleChoose.unity
+    guid: d0b5d0de03007c842a7bc67025773fc1
+  - enabled: 1
+    path: Assets/Scenes/Level_1_Tutorial/Step3/HighKnee_Action.unity
+    guid: 1a59aaaf0d2125d41a5a63c6f221ffe6
+  - enabled: 1
+    path: Assets/Scenes/Level_1_Tutorial/Step3/HighKnee_Title.unity
+    guid: 5d232cbf85c502345b3e072d093dc6e3
+  - enabled: 1
+    path: Assets/Scenes/Level_2_Tutorial/Step3/Squat_Action.unity
+    guid: 253d32a2621f27d41b32f49b8bb16c95
+  - enabled: 1
+    path: Assets/Scenes/Level_2_Tutorial/Step3/Squat_Title.unity
+    guid: 6bb072e9572933e42ad5adb1b9285234
+  - enabled: 1
+    path: Assets/Scenes/Level_3_Tutorial/Step6_Change/ChangeGapScene.unity
+    guid: 0f5c3d02230817546beb0edd40ae2afe
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/TongguanScene 1.unity
+    guid: e102176ae745792489ea210915e5bf47
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/TongguanScene 2.unity
+    guid: d06ce48dc048cc947a0d0e6a8f634a6e
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/InsightScenes/InsightScene.unity
+    guid: afbcbce722257974fbdae627aaa58f5d
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/InsightScenes/InsightScene 2.unity
+    guid: f9819f2df365c7f4fb4ce500fa018fc5
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes/InsightScenes/InsightScene_3.unity
+    guid: 10f3010ba59153a4395c794ab3942f31
+  m_configObjects: {}

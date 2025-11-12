@@ -1,0 +1,29 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Ignore Rider/VS
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.suo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Unity packages
+*.unitypackage
+
+# Git LFS
+*.psd
+*.mp4
+*.fbx
