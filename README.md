@@ -11,3 +11,6 @@ Openpose版本：1.7.0
 請將"本專案\Openpose\01.py"貼至編譯後的Openpose資料夾"openpose-1.7.0\build\bin\"運行
 
 初次下載後，使用Unity於Add > Add project from disk選擇本專案資料夾
+
+# -Doc分支-
+本專案文件，包含ppt簡報、總審文件、專案dm
