@@ -12,6 +12,7 @@ Openpose版本：1.7.0
 
 初次下載後，使用Unity於Add > Add project from disk選擇本專案資料夾
 
+節點坐標路徑請於"\Assets\script\AboutJson\JsonTest.cs"中更改
 # -Doc分支-
 本專案文件，包含ppt簡報、總審文件、專案dm
 
